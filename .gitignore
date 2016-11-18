@@ -33,3 +33,4 @@ out/
 .settings/
 .classpath
 .history
+/bin/
